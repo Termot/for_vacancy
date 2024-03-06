@@ -1,5 +1,5 @@
 import unittest
-from game_score import generate_game, get_score
+from game import generate_game, get_score
 
 
 class TestExample(unittest.TestCase):
